@@ -1,4 +1,4 @@
-# py_template
+# Competitive Programming Template written in python
 
 This is wplf's template for leetcode contests, which is pretty naive.
 
